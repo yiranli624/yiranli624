@@ -39,7 +39,7 @@ You can also find me on:
 ---
 ## &#128200; GitHub Stats
 
-![Elle's github stats](https://github-readme-stats.vercel.app/api?username=elle624&show_icons=true&theme=tokyonight)
+[![Elle's github stats](https://github-readme-stats.vercel.app/api?username=elle624&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elle624&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/elle624/github-readme-stats)
 
