@@ -1,7 +1,10 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Elle Li and I'm a software developer. I'm from China with violin performance background. I am excited to bring my skills with team collaboration and refinement to my new career as a software developer.
-- 💻 I’m currently learning`Next.js`<br/>
+- 😄 Pronouns: She/Her <br/>
+- 💻 I’m currently learning `Next.js`<br/>
+- 💬 Ask me about my musician life!
+- ⚡ Fun fact: I've been to cargo terminal at Munich 😂
 
 <p align="center">
 
@@ -39,9 +42,9 @@ You can also find me on:
 ---
 ## &#128200; GitHub Stats
 
-[![Elle's github stats](https://github-readme-stats.vercel.app/api?username=elle624&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Elle's github stats](https://github-readme-stats.vercel.app/api?username=yiranli624&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elle624&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/elle624/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiranli624&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/yiranli624/github-readme-stats)
 
 
 
@@ -61,6 +64,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
