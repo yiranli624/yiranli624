@@ -4,7 +4,7 @@ My name is Elle Li and I'm a software developer. I'm from China with violin perf
 - 😄 Pronouns: She/Her <br/>
 - 💻 I’m currently learning `Next.js`<br/>
 - 💬 Ask me about my musician life!
-- ⚡ Fun fact: I've been to cargo terminal at Munich 😂
+- ⚡ Fun fact: I've been to the cargo terminal at Munich to pick up my personal document 😂
 
 <p align="center">
 
