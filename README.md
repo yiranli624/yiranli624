@@ -2,7 +2,7 @@
 
 My name is Elle Li and I'm a software developer. I'm from China with violin performance background. I am excited to bring my skills with team collaboration and refinement to my new career as a software developer.
 - 😄 Pronouns: She/Her <br/>
-- 💻 I’m currently learning `Next.js`<br/>
+- 💻 I’m currently working on full stack with `Nextjs + TS + postgres`<br/>
 - 💬 Ask me about my musician life!
 - ⚡ Fun fact: I've been to the cargo terminal at Munich to pick up my personal document 😂
 
