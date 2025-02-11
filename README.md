@@ -10,12 +10,12 @@ My name is Elle Li and I'm a software developer. I'm from China with violin perf
 
 You can also find me on: 
 
-[![LinkedIn][1.2]][1]
+<!-- [![LinkedIn][1.2]][1] -->
+[<img src="https://github.com/user-attachments/assets/4252922b-71cc-4b3f-ac33-5e14a39d28d3" width=30px/>][1]
 
 </p>
 
 [1.2]: https://user-images.githubusercontent.com/66269306/102413242-dc236300-3fb1-11eb-9b77-183f98dd506c.png (LinkedIn icon without padding)
-
 [1]: https://www.linkedin.com/in/yiran-li-elle/
 
 ---
